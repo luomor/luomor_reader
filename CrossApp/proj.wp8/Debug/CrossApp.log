@@ -1,0 +1,150 @@
+﻿  CCAction.cpp
+  CCActionCamera.cpp
+  CCActionEase.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+  CCActionTween.cpp
+  CAApplication.cpp
+I:\引擎\CrossApp_beta\CrossApp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\basics\CAApplication.cpp)
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\basics\CAApplication.cpp)
+  CAAutoreleasePool.cpp
+  CACamera.cpp
+  CAGeometry.cpp
+I:\引擎\CrossApp_beta\CrossApp\platform/CADensityDpi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\basics\CAApplication.cpp)
+  CAObject.cpp
+  CAResponder.cpp
+  CAScheduler.cpp
+  CASTLContainer.cpp
+  CCArray.cpp
+  CCDictionary.cpp
+  CCNS.cpp
+  CCSet.cpp
+  CCString.cpp
+  CABarItem.cpp
+  CAViewController.cpp
+i:\引擎\crossapp_beta\crossapp\controller\CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\controller\CAViewController.cpp)
+  CABar.cpp
+..\controller\CABarItem.cpp(13): warning C4068: 未知的杂注 (..\controller\CABarItem.cpp)
+..\controller\CABarItem.cpp(30): warning C4068: 未知的杂注 (..\controller\CABarItem.cpp)
+..\controller\CABarItem.cpp(81): warning C4068: 未知的杂注 (..\controller\CABarItem.cpp)
+..\controller\CABarItem.cpp(150): warning C4068: 未知的杂注 (..\controller\CABarItem.cpp)
+  CAButton.cpp
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\controller\CAViewController.cpp)
+  CAControl.cpp
+I:\引擎\CrossApp_beta\CrossApp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\controller\CAViewController.cpp)
+..\controller\CAViewController.cpp(181): warning C4068: 未知的杂注 (..\controller\CAViewController.cpp)
+..\controller\CAViewController.cpp(658): warning C4068: 未知的杂注 (..\controller\CAViewController.cpp)
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\control\CABar.cpp)
+..\control\CABar.cpp(21): warning C4068: 未知的杂注 (..\control\CABar.cpp)
+..\control\CABar.cpp(306): warning C4068: 未知的杂注 (..\control\CABar.cpp)
+  CAProgress.cpp
+  CASegmentedControl.cpp
+..\control\CASegmentedControl.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\control\CASegmentedControl.cpp)
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\control\CASegmentedControl.cpp)
+  CASlider.cpp
+..\control\CASlider.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\control\CASlider.cpp)
+i:\引擎\crossapp_beta\crossapp\control\CASlider.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\control\CASlider.cpp)
+  CASwitch.cpp
+  CATextField.cpp
+  CrossApp.cpp
+  CAIMEDispatcher.cpp
+  CAKeypadDelegate.cpp
+  CAKeypadDispatcher.cpp
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\CrossApp.cpp)
+  CATouch.cpp
+i:\引擎\crossapp_beta\crossapp\control/CASlider.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\CrossApp.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\CrossApp.cpp)
+i:\引擎\crossapp_beta\crossapp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\CrossApp.cpp)
+  CATouchDispatcher.cpp
+  CCDrawingPrimitives.cpp
+  CCDrawNode.cpp
+  CCGLBufferedNode.cpp
+I:\引擎\CrossApp_beta\CrossApp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\dispatcher\CATouchDispatcher.cpp)
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\dispatcher\CATouchDispatcher.cpp)
+  CAAnimation.cpp
+  CAAnimationCache.cpp
+  CAImage.cpp
+  CAImageCache.cpp
+  CAImageFrame.cpp
+I:\引擎\CrossApp_beta\CrossApp\platform/CAFreeTypeFont.h(20): fatal error C1083: 无法打开包括文件:“ft2build.h”: No such file or directory (..\images\CAImage.cpp)
+  CAImageFrameCache.cpp
+  CAFreeTypeFont.cpp
+..\images\CAImageCache.cpp(40): warning C4068: 未知的杂注 (..\images\CAImageCache.cpp)
+..\images\CAImageCache.cpp(727): warning C4068: 未知的杂注 (..\images\CAImageCache.cpp)
+..\images\CAImageCache.cpp(1342): warning C4068: 未知的杂注 (..\images\CAImageCache.cpp)
+  CCEGLViewProtocol.cpp
+i:\引擎\crossapp_beta\crossapp\platform\CAFreeTypeFont.h(20): fatal error C1083: 无法打开包括文件:“ft2build.h”: No such file or directory (..\platform\CAFreeTypeFont.cpp)
+  CCFileUtils.cpp
+  CCSAXParser.cpp
+  CCThread.cpp
+  platform.cpp
+  CCAccelerometer.cpp
+  CCApplication.cpp
+  CCCommon.cpp
+  CCDevice.cpp
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCAccelerometer.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASlider.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCAccelerometer.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCAccelerometer.cpp)
+i:\引擎\crossapp_beta\crossapp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCAccelerometer.cpp)
+  CCFileUtilsWinRT.cpp
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCCommon.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASlider.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCCommon.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCCommon.cpp)
+i:\引擎\crossapp_beta\crossapp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\winrt\CCCommon.cpp)
+  CCImage.cpp
+  CCPrecompiledShaders.cpp
+  CCPThreadWinRT.cpp
+i:\引擎\crossapp_beta\crossapp\platform\winrt\CCFreeTypeFont.h(37): fatal error C1083: 无法打开包括文件:“ft2build.h”: No such file or directory (..\platform\winrt\CCImage.cpp)
+  CCStdC.cpp
+  CCWinRTUtils.cpp
+  sha1.cpp
+  CCEGLView.cpp
+  WP8Keyboard.cpp
+  ModalLayer.cpp
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\WP8Keyboard.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASlider.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\WP8Keyboard.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\WP8Keyboard.cpp)
+i:\引擎\crossapp_beta\crossapp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\WP8Keyboard.cpp)
+  CAGLProgram.cpp
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\ModalLayer.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASlider.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\ModalLayer.cpp)
+i:\引擎\crossapp_beta\crossapp\control/CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\ModalLayer.cpp)
+i:\引擎\crossapp_beta\crossapp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\platform\wp8\ModalLayer.cpp)
+  CAShaderCache.cpp
+  ccGLStateCache.cpp
+  ccShaders.cpp
+  base64.cpp
+  CANotificationCenter.cpp
+  CCPointExtension.cpp
+  CCProfiling.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+  CCVertex.cpp
+  ConvertUTF.cpp
+  ConvertUTFWrapper.cpp
+  ccCArray.cpp
+  TGAlib.cpp
+  tinyxml2.cpp
+  TransformUtils.cpp
+  CAUserDefault.cpp
+  ioapi.cpp
+  unzip.cpp
+  ZipUtils.cpp
+  CABatchView.cpp
+  CAClippingView.cpp
+  CAImageView.cpp
+  CALabel.cpp
+  CARenderImage.cpp
+  CAScale9ImageView.cpp
+  CAScrollView.cpp
+  CATableView.cpp
+  CAView.cpp
+..\view\CAView.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\view\CAView.cpp)
+  CAWindow.cpp
+..\view\CAScrollView.cpp(22): warning C4068: 未知的杂注 (..\view\CAScrollView.cpp)
+..\view\CAScrollView.cpp(825): warning C4068: 未知的杂注 (..\view\CAScrollView.cpp)
+..\view\CATableView.cpp(21): warning C4068: 未知的杂注 (..\view\CATableView.cpp)
+..\view\CATableView.cpp(616): warning C4068: 未知的杂注 (..\view\CATableView.cpp)
+I:\引擎\CrossApp_beta\CrossApp\controller/CAViewController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\view\CAWindow.cpp)
+i:\引擎\crossapp_beta\crossapp\control\CASegmentedControl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (..\view\CAWindow.cpp)

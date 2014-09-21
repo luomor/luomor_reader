@@ -1,0 +1,15 @@
+﻿生成启动时间为 2014/8/6 9:38:32。
+     1>项目“D:\CrossApp\CrossApp\proj.win32\CrossApp.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreLinkEvent:
+         if not exist "D:\CrossApp\projects\Book9s\proj.win32\Debug.win32\" mkdir "D:\CrossApp\projects\Book9s\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\CrossApp\CrossApp\proj.win32\..\platform\third_party\win32\libraries\*.*" "D:\CrossApp\projects\Book9s\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 17 个文件
+       Link:
+         CrossApp.vcxproj -> D:\CrossApp\projects\Book9s\proj.win32\Debug.win32\libCrossApp.dll
+     1>已完成生成项目“D:\CrossApp\CrossApp\proj.win32\CrossApp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.91

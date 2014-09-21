@@ -1,0 +1,35 @@
+﻿生成启动时间为 2014/7/30 11:13:32。
+     1>项目“D:\CrossApp\samples\demo\proj.win32\HelloCpp.vcxproj”在节点 2 上(Build 个目标)。
+       项目文件包含 ToolsVersion="12.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>项目“D:\CrossApp\samples\demo\proj.win32\HelloCpp.vcxproj”(1)正在节点 2 上生成“D:\CrossApp\extensions\proj.win32\libExtensions.vcxproj”(3) (GetTargetPath 个目标)。
+       项目文件包含 ToolsVersion="12.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     3>已完成生成项目“D:\CrossApp\extensions\proj.win32\libExtensions.vcxproj”(GetTargetPath 个目标)的操作。
+     1>项目“D:\CrossApp\samples\demo\proj.win32\HelloCpp.vcxproj”(1)正在节点 2 上生成“D:\CrossApp\extensions\proj.win32\libExtensions.vcxproj”(3:2) (GetNativeManifest 个目标)。
+       项目文件包含 ToolsVersion="12.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     3>已完成生成项目“D:\CrossApp\extensions\proj.win32\libExtensions.vcxproj”(GetNativeManifest 个目标)的操作。
+     1>项目“D:\CrossApp\samples\demo\proj.win32\HelloCpp.vcxproj”(1)正在节点 2 上生成“D:\CrossApp\extensions\proj.win32\libExtensions.vcxproj”(3:3) (GetResolvedLinkLibs 个目标)。
+       项目文件包含 ToolsVersion="12.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     3>已完成生成项目“D:\CrossApp\extensions\proj.win32\libExtensions.vcxproj”(GetResolvedLinkLibs 个目标)的操作。
+     1>PreLinkEvent:
+         if not exist "D:\CrossApp\samples\demo\proj.win32\Debug.win32\" mkdir "D:\CrossApp\samples\demo\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\CrossApp\samples\demo\proj.win32\..\..\..\external\libwebsockets\win32\lib\*.*" "D:\CrossApp\samples\demo\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CrossApp\samples\demo\proj.win32\Debug.win32\HelloCpp.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\CrossApp\samples\demo\proj.win32\Debug.win32\ libExtensions.lib libCrossApp.lib libCocosDenshion.lib opengl32.lib glew32.lib libcurl_imp.lib pthreadVCE2.lib websockets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CrossApp\samples\demo\proj.win32\Debug.win32\HelloCpp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CrossApp\samples\demo\proj.win32\Debug.win32\HelloCpp.lib" /MACHINE:X86 /SAFESEH Debug.win32\AppDelegate.obj
+         Debug.win32\FirstViewController.obj
+         Debug.win32\RootViewController.obj
+         Debug.win32\SecondViewController.obj
+         Debug.win32\ThirdViewController.obj
+         Debug.win32\ViewController.obj
+         Debug.win32\main.obj
+         D:\CrossApp\samples\demo\proj.win32\Debug.win32\libCocosDenshion.lib
+         D:\CrossApp\samples\demo\proj.win32\Debug.win32\libCrossApp.lib
+         D:\CrossApp\samples\demo\proj.win32\Debug.win32\libExtensions.lib
+     1>AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         HelloCpp.vcxproj -> D:\CrossApp\samples\demo\proj.win32\Debug.win32\HelloCpp.exe
+     1>已完成生成项目“D:\CrossApp\samples\demo\proj.win32\HelloCpp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.65
